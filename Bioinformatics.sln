@@ -1,0 +1,223 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BA3A", "BA3A\BA3A.pyproj", "{F7E17E95-1B12-4985-98CB-3A2025EFB871}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BA3B", "BA3B\BA3B.pyproj", "{29B0EBA3-864B-4576-A6E0-C82AC7C9C66E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_1_Implement PatternCount", "Course_1_1_Implement PatternCount\Course_1_1_Implement PatternCount.pyproj", "{870556FD-11D7-49BF-A14E-7A97C5D0E501}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_2_Solve_the_Frequent_Words_Problem", "Course_1_2_Solve_the_Frequent_Words_Problem\Course_1_2_Solve_the_Frequent_Words_Problem.pyproj", "{0DCA870F-8ACA-4730-BB8F-3A2354E3B9D4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_3_Reverse_Complement_Problem", "Course_1_3_Reverse_Complement_Problem\Course_1_3_Reverse_Complement_Problem.pyproj", "{EC3030B2-64BB-47EE-980A-3E9F6DB971EC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_4_Pattern_Matching_Problem", "Course_1_4_Pattern_Matching_Problem\Course_1_4_Pattern_Matching_Problem.pyproj", "{B259A5B7-DFEB-43E1-B7F9-FB09E58C30EF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_5_Clump_Finding_Problem", "Course_1_5_Clump_Finding_Problem\Course_1_5_Clump_Finding_Problem.pyproj", "{16E2279F-9A86-4697-B91A-A196793BCCE3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_6_Minimum_Skew_Problem", "Course_1_6_Minimum_Skew_Problem\Course_1_6_Minimum_Skew_Problem.pyproj", "{53A9CD91-730E-4393-A275-DD1E4D9C4F76}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_7_Hamming_Distance_Problem", "Course_1_7_Hamming_Distance_Problem\Course_1_7_Hamming_Distance_Problem.pyproj", "{74C90729-2EDF-411A-8668-E7BBD66945A4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_8_Approximate_Pattern_Matching_Problem", "Course_1_8_Approximate_Pattern_Matching_Problem\Course_1_8_Approximate_Pattern_Matching_Problem.pyproj", "{13E3EF97-9912-47D1-80C4-3D0221835DF5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_9_Implement_ApproximatePatternCount", "Course_1_9_Implement_ApproximatePatternCount\Course_1_9_Implement_ApproximatePatternCount.pyproj", "{80442225-3FC0-4FF1-A338-7F92B4FDAF82}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_10_Frequent_Words_with_Mismatches_Problem", "Course_1_10_Frequent_Words_with_Mismatches_Problem\Course_1_10_Frequent_Words_with_Mismatches_Problem.pyproj", "{9BCD6AE5-82F7-411E-AA02-0645EF41A0B3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_11_Frequent_Words_with_Mismatches_and_Reverse_Complements_Problem", "Course_1_11_Frequent_Words_with_Mismatches_and_Reverse_Complements_Problem\Course_1_11_Frequent_Words_with_Mismatches_and_Reverse_Complements_Problem.pyproj", "{CE2844B8-7C47-459B-97B7-BA0593BBB974}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nhap", "nhap\nhap.pyproj", "{F4D5268F-1BC1-4BF3-95BC-5E9800C5960F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_12_MotifEnumeration", "Course_1_12_MotifEnumeration\Course_1_12_MotifEnumeration.pyproj", "{079329A8-C654-4B4D-A7F7-5799EF31561E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_13_Implement_MedianString", "Course_1_13_Implement_MedianString\Course_1_13_Implement_MedianString.pyproj", "{479653D7-2AF8-4C45-8F9C-6745815650C6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_14_Profile_most_Probable_k_mer_Problem", "Course_1_14_Profile_most_Probable_k_mer_Problem\Course_1_14_Profile_most_Probable_k_mer_Problem.pyproj", "{7102E7D8-71A2-4D0D-870E-6CBB45C850C2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_15_ Implement_RandomizedMotifSearch", "Course_1_15_ Implement_RandomizedMotifSearch\Course_1_15_ Implement_RandomizedMotifSearch.pyproj", "{46B61470-DEA2-40E2-9383-89DE2D619671}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_16_Implement_GreedyMotifSearch", "Course_1_16_Implement_GreedyMotifSearch\Course_1_16_Implement_GreedyMotifSearch.pyproj", "{E0FD6472-BC3E-4ED4-9406-69EF6311C1A2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_17_Implement_GreedyMotifSearch_with_pseudocounts", "Course_1_17_Implement_GreedyMotifSearch_with_pseudocounts\Course_1_17_Implement_GreedyMotifSearch_with_pseudocounts.pyproj", "{99FA9AD5-D74D-4573-BB6F-DC11EBD0D516}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_18_Implement_DistanceBetweenPatternAndStrings", "Course_1_18_Implement_DistanceBetweenPatternAndStrings\Course_1_18_Implement_DistanceBetweenPatternAndStrings.pyproj", "{6FDCF876-C96D-4EBE-B8AE-0EEDB0A5EAB7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_1_19_Implement_GibbsSampler", "Course_1_19_Implement_GibbsSampler\Course_1_19_Implement_GibbsSampler.pyproj", "{7503DC98-26C0-4127-877A-958FAAE8C9C7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_01_String_Composition_Problem", "Course_2_01_String_Composition_Problem\Course_2_01_String_Composition_Problem.pyproj", "{E3436A8D-8E46-4DBC-BD15-A9C363E1F2E1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_02_String_Spelled_by_a_Genome_Path_Problem", "Course_2_02_String_Spelled_by_a_Genome_Path_Problem\Course_2_02_String_Spelled_by_a_Genome_Path_Problem.pyproj", "{35D6227F-CA2C-4767-8730-67B739FC2717}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_03_Overlap_Graph_Problem", "Course_2_03_Overlap_Graph_Problem\Course_2_03_Overlap_Graph_Problem.pyproj", "{F718BC0E-F71C-4076-A948-92003175DFEA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_04_De_Bruijn_Graph_from_a_String_Problem", "Course_2_04_De_Bruijn_Graph_from_a_String_Problem\Course_2_04_De_Bruijn_Graph_from_a_String_Problem.pyproj", "{344BB66E-3157-4171-A77F-AD56A51E8002}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_05_DeBruijn_Graph_from_k_mers_Problem", "Course_2_05_DeBruijn_Graph_from_k_mers_Problem\Course_2_05_DeBruijn_Graph_from_k_mers_Problem.pyproj", "{EED8EE2E-F03C-4BB7-8970-4BBFB4C1F2A8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_06_Eulerian_Cycle_Problem", "Course_2_06_Eulerian_Cycle_Problem\Course_2_06_Eulerian_Cycle_Problem.pyproj", "{57517143-9298-4D0E-86C9-55AE22AA5E7D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_07_Eulerian_Path_Problem", "Course_2_07_Eulerian_Path_Problem\Course_2_07_Eulerian_Path_Problem.pyproj", "{413BEE29-4D26-4786-B2E1-F9F3382F0201}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_08_String_Reconstruction_Problem", "Course_2_08_String_Reconstruction_Problem\Course_2_08_String_Reconstruction_Problem.pyproj", "{4B01DE0B-4F66-435F-94F2-A85FA96BF191}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_09_k_Universal_Circular_String_Problem", "Course_2_09_k_Universal_Circular_String_Problem\Course_2_09_k_Universal_Circular_String_Problem.pyproj", "{C758DC98-9CFE-443C-AD01-B649C2A39F64}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_10_String_Reconstruction_from_Read_Pairs_Problem", "Course_2_10_String_Reconstruction_from_Read_Pairs_Problem\Course_2_10_String_Reconstruction_from_Read_Pairs_Problem.pyproj", "{6AEB19A1-8486-4BAD-8C8C-9F87B20FEA63}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_11_Contig_Generation_Problem", "Course_2_11_Contig_Generation_Problem\Course_2_11_Contig_Generation_Problem.pyproj", "{78D90C3A-458D-4005-AF44-5C9E997F8E6C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_12_Implement_StringSpelledByGappedPatterns", "Course_2_12_Implement_StringSpelledByGappedPatterns\Course_2_12_Implement_StringSpelledByGappedPatterns.pyproj", "{8211CF53-2B65-44E9-B26E-43775F021EBD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_13_ Implement_MaximalNonBranchingPaths", "Course_2_13_ Implement_MaximalNonBranchingPaths\Course_2_13_ Implement_MaximalNonBranchingPaths.pyproj", "{59ADDBA9-E17C-4C29-B390-229ECFF6C6A5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_14_Protein_Translation_Problem", "Course_2_14_Protein_Translation_Problem\Course_2_14_Protein_Translation_Problem.pyproj", "{EC4B9953-A38E-4E3C-86DF-79F4637DF8F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_15_Peptide_Encoding_Problem", "Course_2_15_Peptide_Encoding_Problem\Course_2_15_Peptide_Encoding_Problem.pyproj", "{A6CF0B67-EDE8-4901-8629-B5DD23FF44C3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_16_Generating_Theoretical_Spectrum_Problem", "Course_2_16_Generating_Theoretical_Spectrum_Problem\Course_2_16_Generating_Theoretical_Spectrum_Problem.pyproj", "{BFF2F43B-AA3F-4A07-AD48-3286C4C0A173}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_17_Implement_CyclopeptideSequencing", "Course_2_17_Implement_CyclopeptideSequencing\Course_2_17_Implement_CyclopeptideSequencing.pyproj", "{414243C1-4364-4FE7-A0F7-B2C53908F901}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_18_Implement_LinearSpectrum", "Course_2_18_Implement_LinearSpectrum\Course_2_18_Implement_LinearSpectrum.pyproj", "{273FEF6E-4FD2-4CE6-8B52-C417EC8A9138}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_19_Cyclopeptide_Scoring_Problem", "Course_2_19_Cyclopeptide_Scoring_Problem\Course_2_19_Cyclopeptide_Scoring_Problem.pyproj", "{F31AE75F-7B97-40AB-8325-87284615351A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_20_Implement_LeaderboardCyclopeptideSequencing", "Course_2_20_Implement_LeaderboardCyclopeptideSequencing\Course_2_20_Implement_LeaderboardCyclopeptideSequencing.pyproj", "{8A7C37B4-2A2B-44AE-B2A7-0FC1A5C6F43F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_21_Spectral_Convolution_Problem", "Course_2_21_Spectral_Convolution_Problem\Course_2_21_Spectral_Convolution_Problem.pyproj", "{89F9CD6A-FC8C-44F0-99A4-FCFB42153CD9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_22_Implement_ConvolutionCyclopeptideSequencing", "Course_2_22_Implement_ConvolutionCyclopeptideSequencing\Course_2_22_Implement_ConvolutionCyclopeptideSequencing.pyproj", "{4136A927-C330-4990-A15F-45B625E8A22F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nhap_1", "nhap_1\nhap_1.pyproj", "{F67353E0-D83D-49B5-8207-660B017F5343}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_23_score_of_a_linear_peptide", "Course_2_23_score_of_a_linear_peptide\Course_2_23_score_of_a_linear_peptide.pyproj", "{9C8024B1-2C83-47EF-9E36-7319F029E543}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_2_24_Implement_Trim", "Course_2_24_Implement_Trim\Course_2_24_Implement_Trim.pyproj", "{CF1CF0C3-FBDF-4631-96DD-11782B8BF49E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_3_01_Change_Problem", "Course_3_01_Change_Problem\Course_3_01_Change_Problem.pyproj", "{F761FDC3-FB4C-49B9-ADAF-795D213AD4BF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_3_02_longest_path_in_the_Manhattan_Tourist_Problem", "Course_3_02_longest_path_in_the_Manhattan_Tourist_Problem\Course_3_02_longest_path_in_the_Manhattan_Tourist_Problem.pyproj", "{8F773601-64F2-4CC2-89EE-B666CAA61B38}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_3_03_Longest_Common_Subsequence_Problem", "Course_3_03_Longest_Common_Subsequence_Problem\Course_3_03_Longest_Common_Subsequence_Problem.pyproj", "{AD819398-1EC7-4613-8B86-D5DF9B275618}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Course_3_04_Longest_Path_in_a_DAG_Problem", "Course_3_04_Longest_Path_in_a_DAG_Problem\Course_3_04_Longest_Path_in_a_DAG_Problem.pyproj", "{1E9A4699-A579-4D3A-BEAA-5B92344EF08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E17E95-1B12-4985-98CB-3A2025EFB871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E17E95-1B12-4985-98CB-3A2025EFB871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B0EBA3-864B-4576-A6E0-C82AC7C9C66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B0EBA3-864B-4576-A6E0-C82AC7C9C66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870556FD-11D7-49BF-A14E-7A97C5D0E501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870556FD-11D7-49BF-A14E-7A97C5D0E501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCA870F-8ACA-4730-BB8F-3A2354E3B9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCA870F-8ACA-4730-BB8F-3A2354E3B9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3030B2-64BB-47EE-980A-3E9F6DB971EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3030B2-64BB-47EE-980A-3E9F6DB971EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B259A5B7-DFEB-43E1-B7F9-FB09E58C30EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B259A5B7-DFEB-43E1-B7F9-FB09E58C30EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E2279F-9A86-4697-B91A-A196793BCCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E2279F-9A86-4697-B91A-A196793BCCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A9CD91-730E-4393-A275-DD1E4D9C4F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A9CD91-730E-4393-A275-DD1E4D9C4F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C90729-2EDF-411A-8668-E7BBD66945A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C90729-2EDF-411A-8668-E7BBD66945A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E3EF97-9912-47D1-80C4-3D0221835DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E3EF97-9912-47D1-80C4-3D0221835DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80442225-3FC0-4FF1-A338-7F92B4FDAF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80442225-3FC0-4FF1-A338-7F92B4FDAF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCD6AE5-82F7-411E-AA02-0645EF41A0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCD6AE5-82F7-411E-AA02-0645EF41A0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2844B8-7C47-459B-97B7-BA0593BBB974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2844B8-7C47-459B-97B7-BA0593BBB974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D5268F-1BC1-4BF3-95BC-5E9800C5960F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D5268F-1BC1-4BF3-95BC-5E9800C5960F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079329A8-C654-4B4D-A7F7-5799EF31561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079329A8-C654-4B4D-A7F7-5799EF31561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479653D7-2AF8-4C45-8F9C-6745815650C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479653D7-2AF8-4C45-8F9C-6745815650C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7102E7D8-71A2-4D0D-870E-6CBB45C850C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7102E7D8-71A2-4D0D-870E-6CBB45C850C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B61470-DEA2-40E2-9383-89DE2D619671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B61470-DEA2-40E2-9383-89DE2D619671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FD6472-BC3E-4ED4-9406-69EF6311C1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FD6472-BC3E-4ED4-9406-69EF6311C1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FA9AD5-D74D-4573-BB6F-DC11EBD0D516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FA9AD5-D74D-4573-BB6F-DC11EBD0D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDCF876-C96D-4EBE-B8AE-0EEDB0A5EAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDCF876-C96D-4EBE-B8AE-0EEDB0A5EAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7503DC98-26C0-4127-877A-958FAAE8C9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7503DC98-26C0-4127-877A-958FAAE8C9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3436A8D-8E46-4DBC-BD15-A9C363E1F2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3436A8D-8E46-4DBC-BD15-A9C363E1F2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D6227F-CA2C-4767-8730-67B739FC2717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D6227F-CA2C-4767-8730-67B739FC2717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F718BC0E-F71C-4076-A948-92003175DFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F718BC0E-F71C-4076-A948-92003175DFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344BB66E-3157-4171-A77F-AD56A51E8002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344BB66E-3157-4171-A77F-AD56A51E8002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED8EE2E-F03C-4BB7-8970-4BBFB4C1F2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED8EE2E-F03C-4BB7-8970-4BBFB4C1F2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57517143-9298-4D0E-86C9-55AE22AA5E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57517143-9298-4D0E-86C9-55AE22AA5E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413BEE29-4D26-4786-B2E1-F9F3382F0201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413BEE29-4D26-4786-B2E1-F9F3382F0201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B01DE0B-4F66-435F-94F2-A85FA96BF191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B01DE0B-4F66-435F-94F2-A85FA96BF191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C758DC98-9CFE-443C-AD01-B649C2A39F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C758DC98-9CFE-443C-AD01-B649C2A39F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEB19A1-8486-4BAD-8C8C-9F87B20FEA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEB19A1-8486-4BAD-8C8C-9F87B20FEA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D90C3A-458D-4005-AF44-5C9E997F8E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D90C3A-458D-4005-AF44-5C9E997F8E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8211CF53-2B65-44E9-B26E-43775F021EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8211CF53-2B65-44E9-B26E-43775F021EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ADDBA9-E17C-4C29-B390-229ECFF6C6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ADDBA9-E17C-4C29-B390-229ECFF6C6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4B9953-A38E-4E3C-86DF-79F4637DF8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4B9953-A38E-4E3C-86DF-79F4637DF8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CF0B67-EDE8-4901-8629-B5DD23FF44C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CF0B67-EDE8-4901-8629-B5DD23FF44C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF2F43B-AA3F-4A07-AD48-3286C4C0A173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF2F43B-AA3F-4A07-AD48-3286C4C0A173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414243C1-4364-4FE7-A0F7-B2C53908F901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414243C1-4364-4FE7-A0F7-B2C53908F901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273FEF6E-4FD2-4CE6-8B52-C417EC8A9138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273FEF6E-4FD2-4CE6-8B52-C417EC8A9138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31AE75F-7B97-40AB-8325-87284615351A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31AE75F-7B97-40AB-8325-87284615351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7C37B4-2A2B-44AE-B2A7-0FC1A5C6F43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7C37B4-2A2B-44AE-B2A7-0FC1A5C6F43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F9CD6A-FC8C-44F0-99A4-FCFB42153CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F9CD6A-FC8C-44F0-99A4-FCFB42153CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4136A927-C330-4990-A15F-45B625E8A22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4136A927-C330-4990-A15F-45B625E8A22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67353E0-D83D-49B5-8207-660B017F5343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67353E0-D83D-49B5-8207-660B017F5343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8024B1-2C83-47EF-9E36-7319F029E543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8024B1-2C83-47EF-9E36-7319F029E543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1CF0C3-FBDF-4631-96DD-11782B8BF49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1CF0C3-FBDF-4631-96DD-11782B8BF49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F761FDC3-FB4C-49B9-ADAF-795D213AD4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F761FDC3-FB4C-49B9-ADAF-795D213AD4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F773601-64F2-4CC2-89EE-B666CAA61B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F773601-64F2-4CC2-89EE-B666CAA61B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD819398-1EC7-4613-8B86-D5DF9B275618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD819398-1EC7-4613-8B86-D5DF9B275618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9A4699-A579-4D3A-BEAA-5B92344EF08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9A4699-A579-4D3A-BEAA-5B92344EF08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFACA39B-486E-4C92-A2A9-77D7B872A8F8}
+	EndGlobalSection
+EndGlobal
